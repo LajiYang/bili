@@ -1,7 +1,7 @@
 (function () {
 	let app = document.querySelector('#app');
 /****************************************顶部状态栏****************************************************/
-	//顶部鼠标移ru
+	//顶部鼠标移入
 	let headerM = app.querySelector('.bili-header-m');
 	{
 		let	nav_con = headerM.querySelectorAll('.nav-con');
